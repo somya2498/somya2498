@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Distributed architecture for Backend , cloud architecture
 - 💬 Ask me about  Java, Spring, Springboot, Angular , AWS,linux,Oracle Db , MySql , System Design
-- 📫 How to reach me: [Github](https://github.com/somya2498),Linkedin](https://www.linkedin.com/in/somya-sriram-30790814a/)
+- 📫 How to reach me: [Github](https://github.com/somya2498),[Linkedin](https://www.linkedin.com/in/harsh-chaurasiya-933826137/)
 - 😄 Pronouns: whoami
 - ⚡ Fun fact: .
 
