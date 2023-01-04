@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning Distributed architecture for Backend , cloud architecture
 - 💬 Ask me about  Java, Spring, Springboot, Angular , AWS,linux,Oracle Db , MySql , System Design
 - 📫 How to reach me: [Github](https://github.com/somya2498),[Linkedin](https://www.linkedin.com/in/harsh-chaurasiya-933826137/)
-- 😄 Pronouns: whoami
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: .
 
 ## Find me around the web 🌎:
 
 
 <!--
-**harsh6768/harsh6768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**somya2498/somya2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2498&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-![](https://skillicons.dev/icons?i=js,nodejs,docker,mysql,mongodb,aws,graphql,react,git,firebase,linux,redis,flutter,wordpress&perline=8)
+![](https://skillicons.dev/icons?i=js,java,docker,mysql,mongodb,aws,angular,git,firebase,linux,redis&perline=8)
 
 
