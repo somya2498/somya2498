@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2498&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-![](https://skillicons.dev/icons?i=java,spring,docker,mysql,aws,angular,git,firebase,linux,redis&perline=8)
+![](https://skillicons.dev/icons?i=java,spring,mysql,aws,angular,git,linux,redis&perline=8)
 
 
