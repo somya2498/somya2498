@@ -1,4 +1,4 @@
- # Hi, I'm Soumya 👋🏾 💻
+ # Hi, I'm Somya 👋🏾 💻
 
 - 🌱 I’m currently learning Distributed architecture for Backend , cloud architecture
 - 💬 Ask me about  Java, Spring, Springboot, Angular , AWS,linux,Oracle Db , MySql , System Design
